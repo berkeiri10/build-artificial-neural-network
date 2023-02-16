@@ -1,2 +1,1 @@
-# build-artificial-neural-network
-AI9032 Build an artificial neural network
+# Global AI Hub - Introduction to Deep Learning
